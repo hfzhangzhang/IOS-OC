@@ -15,12 +15,7 @@ int main(int argc, const char * argv[]) {
      //@后面接关键字，表示了这是oc的关键字
     @autoreleasepool {//这是一个自动释放池，和内存管理相关。
         NSLog(@"Hello, World!");
-        
-        
-        
-        
-        
-   
+
     }
     return 0;
 }
